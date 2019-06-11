@@ -1,4 +1,3 @@
-# Question 3
 import numpy as np
 from cvxopt import matrix as cvxopt_matrix
 from cvxopt import solvers as cvxopt_solvers
