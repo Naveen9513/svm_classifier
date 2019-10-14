@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[4]:
-
+# Starting application
 
 #from SVM import SVM   #importing custom SVM 
 from sklearn import svm, datasets #importing inbuilt SVM
